@@ -16,7 +16,7 @@ body {
   padding: 35px;
   line-height: 1.3;
   font-family: "Open Sans", sans-serif;
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url(images/bg-desktop.svg);
   background-color: #674baf;
   background-repeat: no-repeat;
   background-attachment: fixed;
